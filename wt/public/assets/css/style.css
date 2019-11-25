@@ -1,0 +1,15 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: url("https://i.imgur.com/LQXPrTI.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {font-family: 'Montserrat', sans-serif; font-weight: 500;}
+.main-logo {margin: 75px 0;}
+.main-logo img {display: inline-block; vertical-align: middle;}
+.form-check-input {vertical-align: middle; position: relative; top: -5px; margin-right: 5px;}
+.form-check {margin-bottom: 5px;}
+#chartContainer {height: 300px;}
